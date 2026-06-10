@@ -6,6 +6,7 @@
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
+    "use_stop_id_hash_code": true,
     "stop_id_cleanup_regex": "^zenbus:(StopPoint:SP|StopArea:SA):|:LOC$",
     "stop_name_cleaners": []
 }
