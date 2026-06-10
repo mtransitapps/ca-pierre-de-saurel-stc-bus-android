@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <integer name="gtfs_rts_db_version">20100602</integer>
-    <string name="gtfs_rts_contact_us">INSERT_DEFAULT_URL</string>
-    <string name="gtfs_rts_fares">INSERT_DEFAULT_URL</string>
+    <string name="gtfs_rts_contact_us">https://stcpierredesaurel.ca/#logo-footer</string>
+    <string name="gtfs_rts_fares">https://stcpierredesaurel.ca/tarifs-et-billetterie/</string>
 </resources>
